@@ -176,5 +176,5 @@ function distanceFromCenter(boxPosition, mousePosition, boxSize) {
 
 /* 
 Here is your gift goddamn it, just have it and play with it, masturbate over it or whatever it may be, just don't eat it I guess
-https://harshitaaa245.github.io/NLCWishes/
+https://harshitaaa245.github.io/ApneWishes/
 */
